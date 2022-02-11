@@ -1,3 +1,6 @@
-Print("hello git")
+print("hello git")
 
-Print(" This is test")
+print(" This is test")
+
+def sum(x,y):
+  return x+y
